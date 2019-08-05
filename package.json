@@ -1,0 +1,20 @@
+{
+  "name": "google_books_react_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orlan-Asuncion/Google_Books_Search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orlan-Asuncion/Google_Books_Search/issues"
+  },
+  "homepage": "https://github.com/Orlan-Asuncion/Google_Books_Search#readme"
+}
